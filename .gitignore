@@ -1,0 +1,4 @@
+.vscode/*
+output/*
+data/*
+Manifest.toml
